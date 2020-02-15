@@ -1,3 +1,8 @@
+"""
+Pygame maze rendering program created by "github.com/mortoray"
+Original repository: https://github.com/mortoray/path-finding
+"""
+
 import pygame, math, random, types, copy
 from enum import Enum
 import maze

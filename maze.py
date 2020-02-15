@@ -1,3 +1,8 @@
+"""
+Maze generating program created by "github.com/mortoray"
+Original repository: https://github.com/mortoray/path-finding
+"""
+
 import math
 import random
 import types
